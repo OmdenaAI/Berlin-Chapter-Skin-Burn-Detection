@@ -1,11 +1,11 @@
-# chapter-project-repository-template
+# $${\color{lightblue} Berlin \space Chapter \space Skin \space Burn \space Detection}$$
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
+# ${\color{lightblue} Detecting \space Severity \space and \space Sources \space of \space Skin \space Burns \space Through \space Images}$
 
 
-## Contribution Guidelines
+## ${\color{red}Contribution \space Guidelines}$
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
 - If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
     - Task Folder Naming Convention : _task-n-taskname.(n is the task number)_  ex: task-1-data-analysis, task-2-model-deployment etc.
@@ -14,7 +14,7 @@ Use this Repository as a template for creating Local Chapter Repositories
 - Make sure your File names(jupyter notebooks, python files, data sheet file names etc) has proper naming to help others in easily identifing them.
 - Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion. 
 
-## Project Structure
+## ${\color{red}Project \space Structure}$
 
     ├── LICENSE
     ├── README.md          <- The top-level README for developers/collaborators using this project.
@@ -40,7 +40,7 @@ Use this Repository as a template for creating Local Chapter Repositories
         └── results        <- Folder to store Final analysis and modelling results and code.
 --------
 
-## Folder Overview
+## ${\color{red}Folder \space Overview}$
 
 - Original          - Folder Containing old/completed Omdena challenge code.
 - Reports           - Folder to store all Final Reports of this project
@@ -56,3 +56,6 @@ Use this Repository as a template for creating Local Chapter Repositories
 - Results           - Folder to store final analysis modelling results for the project.
 
 
+
+# ${\color{lightblue}Chapter \space Lead}$
+# Vishu Kalier
