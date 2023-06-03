@@ -5,7 +5,7 @@
 
 This task will mostly comprise of ***Collecting dataset related to Images*** from the Internet or other websites related to Skin Burn. All the ***collaborators***
 of this task must takes these points into consideration.
-- Provide your dataset in the subfolder of dataset.
+- Provide your dataset in the subfolder of ***Datasets***.
 - Maintain the table by providing your name for the dataset which you have provided in the task table.
 - If you are not able to update the task table it will be updated weekly by the ***Task Leader** or the ***Chapter Leader***.
 
